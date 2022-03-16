@@ -1,7 +1,7 @@
 package day_2;
 import java.util.*;
 public class program_5 {
-	    int result(int[]arr) {
+	    static int result(int[]arr) {
 		int avg=0;
 		for(int i=0;i<arr.length;i++) {
 			avg+=arr[i];
